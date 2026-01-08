@@ -9,7 +9,7 @@ Whether you are a student, a space enthusiast, or someone who loves interactive 
 ## 🔗 Live Preview (Local)
 
 
-[http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+cosmos-space-dashboard-beige.vercel.app
 
 
 
