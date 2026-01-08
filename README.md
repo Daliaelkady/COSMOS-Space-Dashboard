@@ -9,7 +9,7 @@ Whether you are a student, a space enthusiast, or someone who loves interactive 
 ## 🔗 Live Preview (Local)
 
 
-cosmos-space-dashboard-beige.vercel.app
+[cosmos-space-dashboard-beige.vercel.app](https://cosmos-space-dashboard-beige.vercel.app/)
 
 
 
